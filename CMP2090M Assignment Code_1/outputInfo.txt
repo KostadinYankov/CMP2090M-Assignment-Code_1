@@ -1,0 +1,161 @@
+Exporting data into text file...
+
+The width of the Mean image is: 3264 px.
+The height of the Mean image is: 2448 px.
+The size of the Mean image in MB is: 22.8604
+The data type of the Mean image is: SHORT
+
+Exporting data into text file...
+
+The width of the Median image is: 3264 px.
+The height of the Median image is: 2448 px.
+The size of the Median image in MB is: 22.8604
+The data type of the Median image is: CHAR
+
+Exporting data into text file...
+
+The width of the Sigma Clipped image is: 3264 px.
+The height of the Sigma Clipped image is: 2448 px.
+The size of the Sigma Clipped image in MB is: 22.8604
+The data type of the Sigma Clipped image is: FLOAT
+
+Exporting data into text file...
+
+The width of the Zoomed x2 image is: 1500 px.
+The height of the Zoomed x2 image is: 1500 px.
+The size of the Zoomed x2 image in MB is: 6.4373
+The data type of the Zoomed x2 image is: CHAR... in Zoom class
+
+Exporting data into text file...
+
+The width of the Zoomed x2 image is: 1500 px.
+The height of the Zoomed x2 image is: 1500 px.
+The size of the Zoomed x2 image in MB is: 6.4373
+The data type of the Zoomed x2 image is: CHAR... in Zoom class
+
+Exporting data into text file...
+
+The width of the Zoomed x4 image is: 3000 px.
+The height of the Zoomed x4 image is: 3000 px.
+The size of the Zoomed x4 image in MB is: 25.7492
+The data type of the Zoomed x4 image is: CHAR... in Zoom class
+
+Exporting data into text file...
+
+The width of the Bilinear Image image is: 1500 px.
+The height of the Bilinear Image image is: 1500 px.
+The size of the Bilinear Image image in MB is: 6.4373
+The data type of the Bilinear Image image is: CHAR... in Zoom class
+
+Exporting data into text file...
+
+The width of the Bilinear Image image is: 1500 px.
+The height of the Bilinear Image image is: 1500 px.
+The size of the Bilinear Image image in MB is: 6.4373
+The data type of the Bilinear Image image is: CHAR... in Zoom class
+
+Exporting data into text file...
+
+The width of the Bilinear image is: 1500 px.
+The height of the Bilinear image is: 1500 px.
+The size of the Bilinear image in MB is: 6.4373
+The data type of the Bilinear image is: CHAR... in Zoom class
+
+Exporting data into text file...
+
+The width of the Bilinear image is: 1500 px.
+The height of the Bilinear image is: 1500 px.
+The size of the Bilinear image in MB is: 6.4373
+The data type of the Bilinear image is: CHAR... in Zoom class
+
+Exporting data into text file...
+
+The width of the Zoomed x2 image is: 1500 px.
+The height of the Zoomed x2 image is: 1500 px.
+The size of the Zoomed x2 image in MB is: 6.4373
+The data type of the Zoomed x2 image is: CHAR... in Zoom class
+
+Exporting data into text file...
+
+The width of the Zoomed x4 image is: 3000 px.
+The height of the Zoomed x4 image is: 3000 px.
+The size of the Zoomed x4 image in MB is: 25.7492
+The data type of the Zoomed x4 image is: CHAR... in Zoom class
+
+Exporting data into text file...
+
+The width of the Bilinear image is: 0 px.
+The height of the Bilinear image is: 0 px.
+The size of the Bilinear image in MB is: 0
+The data type of the Bilinear image is: CHAR... in Zoom class
+
+Exporting data into text file...
+
+The width of the Zoomed x2 image is: 1500 px.
+The height of the Zoomed x2 image is: 1500 px.
+The size of the Zoomed x2 image in MB is: 6.4373
+The data type of the Zoomed x2 image is: CHAR... in Zoom class
+
+Exporting data into text file...
+
+The width of the Bilinear image is: 1500 px.
+The height of the Bilinear image is: 1500 px.
+The size of the Bilinear image in MB is: 6.4373
+The data type of the Bilinear image is: CHAR... in Zoom class
+
+Exporting data into text file...
+
+The width of the Mean image is: 3264 px.
+The height of the Mean image is: 2448 px.
+The size of the Mean image in MB is: 22.8604
+The data type of the Mean image is: SHORT
+
+Exporting data into text file...
+
+The width of the Median image is: 3264 px.
+The height of the Median image is: 2448 px.
+The size of the Median image in MB is: 22.8604
+The data type of the Median image is: CHAR
+
+Exporting data into text file...
+
+The width of the Sigma Clipped image is: 3264 px.
+The height of the Sigma Clipped image is: 2448 px.
+The size of the Sigma Clipped image in MB is: 22.8604
+The data type of the Sigma Clipped image is: FLOAT
+
+Exporting data into text file...
+
+The width of the Zoomed x2 image is: 1500 px.
+The height of the Zoomed x2 image is: 1500 px.
+The size of the Zoomed x2 image in MB is: 6.4373
+The data type of the Zoomed x2 image is: CHAR... in Zoom class
+
+Exporting data into text file...
+
+The width of the Zoomed x2 image is: 1500 px.
+The height of the Zoomed x2 image is: 1500 px.
+The size of the Zoomed x2 image in MB is: 6.4373
+The data type of the Zoomed x2 image is: CHAR... in Zoom class
+
+Exporting data into text file...
+
+The width of the Zoomed x4 image is: 3000 px.
+The height of the Zoomed x4 image is: 3000 px.
+The size of the Zoomed x4 image in MB is: 25.7492
+The data type of the Zoomed x4 image is: CHAR... in Zoom class
+
+Exporting data into text file...
+
+The width of the Bilinear image is: 1500 px.
+The height of the Bilinear image is: 1500 px.
+The size of the Bilinear image in MB is: 6.4373
+The data type of the Bilinear image is: CHAR... in Zoom class
+
+Exporting data into text file...
+
+The width of the Bilinear image is: 0 px.
+The height of the Bilinear image is: 0 px.
+The size of the Bilinear image in MB is: 0
+The data type of the Bilinear image is: CHAR... in Zoom class
+
